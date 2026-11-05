@@ -1,6 +1,6 @@
 # Current Releases
 
-This repository holds Releases from these repositories for easy download from a single page:
+This repository holds [Releases](Releases/latest) from these repositories for easy download from a single page:
 
 [Time Circtuits Display](https://tcd.out-a-ti.me)
 
