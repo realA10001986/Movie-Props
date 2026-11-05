@@ -1,6 +1,6 @@
 # Current Releases
 
-This repository holds [Releases](https://github.com/realA10001986/Movie-Props/releases) from these repositories for easy download from a single page:
+This repository holds the latest [Releases](https://github.com/realA10001986/Movie-Props/releases) from these repositories for easy download from a single page:
 
 [Time Circtuits Display](https://tcd.out-a-ti.me)
 
